@@ -1,0 +1,24 @@
+{
+    "name": "وكالة أثر للتسويق والإعلان",
+    "short_name": "أثر",
+    "description": "وكالة تسويق رقمي متكاملة",
+    "lang": "ar",
+    "dir": "rtl",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#174964",
+    "background_color": "#FFFFFF",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ]
+}

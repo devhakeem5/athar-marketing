@@ -1,0 +1,13 @@
+# robots.txt for Athar Marketing Agency
+# وكالة أثر للتسويق والإعلان
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://atharmarketing.com/sitemap.xml
+
+# Block access to specific files/folders
+Disallow: /.qoder/
+Disallow: /script.js.map
+Disallow: /style.css.map
